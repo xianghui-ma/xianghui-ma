@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">🤠 Howdy! I'm Dongliang Ma</h1>
 
-<!--
-**xianghui-ma/xianghui-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I am a master student major in Visualization and Visual Analytics.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📫Emai：ma_dong_liang@163.com
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### What I always play with
+
+<p>
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/react.svg" alt="React">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/vuedotjs.svg" alt="Vue">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/apacheecharts.svg" alt="Echarts">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/d3dotjs.svg" alt="D3">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/python.svg" alt="Python">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/html5.svg" alt="HTML">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/javascript.svg" alt="JS">
+<img width=32 height=32 src="https://github.com/xianghui-ma/staticImage/blob/master/css3.svg" alt="CSS">
+</p>
+
+### My blog and npm
+
+<a href="https://xianghui-ma.github.io/">
+<img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/gitbook.svg" alt="Echarts">Blog
+</a>

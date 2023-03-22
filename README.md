@@ -28,3 +28,11 @@ I am a master student major in Visualization and Visual Analytics.
 <a href="https://xianghui-ma.github.io/">
 <img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/gitbook.svg" alt="Echarts">Blog
 </a>
+
+<a href="https://www.npmjs.com/package/sci-glyph">
+<img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/npm.svg" alt="Echarts">sci-glyph
+</a>
+
+<a href="https://www.npmjs.com/package/sci-ui">
+<img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/npm.svg" alt="Echarts">sci-ui
+</a>

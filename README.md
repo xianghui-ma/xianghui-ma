@@ -8,6 +8,8 @@ I am a master student major in Visualization and Visual Analytics.
   📫Emai：ma_dong_liang@163.com
 </p>
 
+![Metrics](https://metrics.lecoq.io/xianghui-ma?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+
 <br>
 
 ### What I always play with

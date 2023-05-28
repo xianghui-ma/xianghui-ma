@@ -28,8 +28,7 @@ I am a master student major in Visualization and Visual Analytics.
 ### My blog and npm
 
 <a href="https://xianghui-ma.github.io/">
-<img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/gitbook.svg" alt="Echarts">
-  <p>Blog</p>
+<img width=20 height=20 src="https://github.com/xianghui-ma/staticImage/blob/master/gitbook.svg" alt="Echarts">Blog
 </a>
 
 <a href="https://www.npmjs.com/package/sci-glyph">
